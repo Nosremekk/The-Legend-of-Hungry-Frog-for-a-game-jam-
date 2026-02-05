@@ -1,0 +1,9 @@
+/// @description Variaveis
+
+desenhando = false;
+
+
+
+
+
+

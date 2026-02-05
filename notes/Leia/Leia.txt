@@ -1,0 +1,24 @@
+Obrigado por verificar o jogo!
+
+Este jogo foi feito para a None Jam 7, cujo tema da competição é Economia.
+
+Provavelmente você baixou este arquivo para verificar os codigos, gostaria de avisar que
+a mecanica de "voltar no tempo" foi retirada de um tutorial gringo no youtube cujo link
+estara no final desta nota.
+
+Sinto-me obrigado tambem a advertir que antes desse projeto fazia 2 anos em que eu não usava
+a engine Game Maker, ou seja, os codigos tem uma qualidade bem duvidavel
+
+Inclusive eu porcamente só copiei um monte de codigo de replay pra cada coisa que eu queria
+que fosse afetada pelo efeito(claramente uma idiotice nada profissional). Portanto tome cuidado
+se quiser tomar meu trabalho como exemplo(se quiser um exemplo, não faça o que eu faço)
+
+Ultimo aviso: eu honestamente não lembro das coisas que eu comentei, as vezes eu coloco 
+umas  piadas internas entre os codigos(que pra mim fazem sentido e me lembram da função 
+dele), peço que ignore.
+
+Novamente, obrigado por baixar este projeto :)
+
+Link do tutorial: https://www.youtube.com/watch?v=FgJcYiLmKr0
+
+
